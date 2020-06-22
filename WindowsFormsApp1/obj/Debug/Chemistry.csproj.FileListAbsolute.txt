@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Dang1.resources
+C:\Users\Admin\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Dang2.resources
+C:\Users\Admin\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Home.resources
+C:\Users\Admin\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Chemistry.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Chemistry.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Chemistry.exe.config
+C:\Users\Admin\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Chemistry.exe
+C:\Users\Admin\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Chemistry.pdb
+C:\Users\Admin\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Chemistry.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Chemistry.Properties.Resources.resources
+C:\Users\Admin\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Chemistry.exe
+C:\Users\Admin\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Chemistry.pdb
