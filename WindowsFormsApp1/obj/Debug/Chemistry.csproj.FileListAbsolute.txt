@@ -10,3 +10,15 @@ C:\Users\Admin\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Chemistr
 C:\Users\Admin\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Chemistry.Properties.Resources.resources
 C:\Users\Admin\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Chemistry.exe
 C:\Users\Admin\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Chemistry.pdb
+D:\CODE\C#\WinForm\Chemistry-Part1\WindowsFormsApp1\bin\Debug\Chemistry.exe.config
+D:\CODE\C#\WinForm\Chemistry-Part1\WindowsFormsApp1\bin\Debug\Chemistry.exe
+D:\CODE\C#\WinForm\Chemistry-Part1\WindowsFormsApp1\bin\Debug\Chemistry.pdb
+D:\CODE\C#\WinForm\Chemistry-Part1\WindowsFormsApp1\obj\Debug\Chemistry.csprojAssemblyReference.cache
+D:\CODE\C#\WinForm\Chemistry-Part1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Dang1.resources
+D:\CODE\C#\WinForm\Chemistry-Part1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Dang2.resources
+D:\CODE\C#\WinForm\Chemistry-Part1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Home.resources
+D:\CODE\C#\WinForm\Chemistry-Part1\WindowsFormsApp1\obj\Debug\Chemistry.Properties.Resources.resources
+D:\CODE\C#\WinForm\Chemistry-Part1\WindowsFormsApp1\obj\Debug\Chemistry.csproj.GenerateResource.cache
+D:\CODE\C#\WinForm\Chemistry-Part1\WindowsFormsApp1\obj\Debug\Chemistry.csproj.CoreCompileInputs.cache
+D:\CODE\C#\WinForm\Chemistry-Part1\WindowsFormsApp1\obj\Debug\Chemistry.exe
+D:\CODE\C#\WinForm\Chemistry-Part1\WindowsFormsApp1\obj\Debug\Chemistry.pdb

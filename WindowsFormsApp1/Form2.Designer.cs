@@ -98,10 +98,10 @@
             // btnback
             // 
             this.btnback.BackColor = System.Drawing.Color.Transparent;
-            this.btnback.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnback.Font = new System.Drawing.Font("Microsoft Sans Serif", 13F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnback.Location = new System.Drawing.Point(2, 1);
             this.btnback.Name = "btnback";
-            this.btnback.Size = new System.Drawing.Size(31, 27);
+            this.btnback.Size = new System.Drawing.Size(30, 30);
             this.btnback.TabIndex = 7;
             this.btnback.Text = "<";
             this.btnback.TextAlign = System.Drawing.ContentAlignment.TopLeft;
@@ -394,7 +394,7 @@
             this.label26.AutoSize = true;
             this.label26.BackColor = System.Drawing.Color.Transparent;
             this.label26.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label26.Location = new System.Drawing.Point(160, 512);
+            this.label26.Location = new System.Drawing.Point(141, 512);
             this.label26.Name = "label26";
             this.label26.Size = new System.Drawing.Size(153, 20);
             this.label26.TabIndex = 8;
@@ -589,10 +589,10 @@
             // txtketquaCO2du
             // 
             this.txtketquaCO2du.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtketquaCO2du.Location = new System.Drawing.Point(327, 476);
+            this.txtketquaCO2du.Location = new System.Drawing.Point(312, 476);
             this.txtketquaCO2du.Name = "txtketquaCO2du";
             this.txtketquaCO2du.ReadOnly = true;
-            this.txtketquaCO2du.Size = new System.Drawing.Size(74, 26);
+            this.txtketquaCO2du.Size = new System.Drawing.Size(89, 26);
             this.txtketquaCO2du.TabIndex = 9;
             // 
             // label33
