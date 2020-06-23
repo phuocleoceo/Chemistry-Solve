@@ -81,13 +81,13 @@
             // 
             this.label1.AutoSize = true;
             this.label1.BackColor = System.Drawing.Color.Transparent;
-            this.label1.Font = new System.Drawing.Font("UVN But Long 1", 26F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Font = new System.Drawing.Font("UVN But Long 1", 28F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.RoyalBlue;
-            this.label1.Location = new System.Drawing.Point(22, 20);
+            this.label1.Location = new System.Drawing.Point(32, 2);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(519, 50);
+            this.label1.Size = new System.Drawing.Size(518, 55);
             this.label1.TabIndex = 1;
-            this.label1.Text = "Hỗn hợp Sắt và Oxit tác dụng HNO3\r\n";
+            this.label1.Text = "Hỗn hợp Oxit Sắt tác dụng HNO3\r\n";
             this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // label2
