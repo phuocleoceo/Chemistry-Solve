@@ -80,6 +80,7 @@
             this.txtketquaCO2du = new System.Windows.Forms.TextBox();
             this.label33 = new System.Windows.Forms.Label();
             this.label34 = new System.Windows.Forms.Label();
+            this.btnclear = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -308,7 +309,7 @@
             // btntinh
             // 
             this.btntinh.Font = new System.Drawing.Font("Microsoft Sans Serif", 19F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btntinh.Location = new System.Drawing.Point(58, 171);
+            this.btntinh.Location = new System.Drawing.Point(22, 172);
             this.btntinh.Name = "btntinh";
             this.btntinh.Size = new System.Drawing.Size(123, 60);
             this.btntinh.TabIndex = 10;
@@ -616,6 +617,17 @@
             this.label34.TabIndex = 8;
             this.label34.Text = "mol";
             // 
+            // btnclear
+            // 
+            this.btnclear.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnclear.Location = new System.Drawing.Point(151, 196);
+            this.btnclear.Name = "btnclear";
+            this.btnclear.Size = new System.Drawing.Size(48, 35);
+            this.btnclear.TabIndex = 16;
+            this.btnclear.Text = "Clear";
+            this.btnclear.UseVisualStyleBackColor = true;
+            this.btnclear.Click += new System.EventHandler(this.btnclear_Click);
+            // 
             // Dang2
             // 
             this.AcceptButton = this.btntinh;
@@ -624,6 +636,7 @@
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(448, 531);
+            this.Controls.Add(this.btnclear);
             this.Controls.Add(this.label33);
             this.Controls.Add(this.btntinh);
             this.Controls.Add(this.txtcaoh2);
@@ -736,5 +749,6 @@
         private System.Windows.Forms.TextBox txtketquaCO2du;
         private System.Windows.Forms.Label label33;
         private System.Windows.Forms.Label label34;
+        private System.Windows.Forms.Button btnclear;
     }
 }

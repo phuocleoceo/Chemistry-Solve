@@ -1,11 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace WindowsFormsApp1
@@ -72,6 +65,25 @@ namespace WindowsFormsApp1
                 txtketquaHCO3.Text = "0";
                 txtketquaCO3.Text = molCO2.ToString();
             }
+        }
+
+        private void btnclear_Click(object sender, EventArgs e)
+        {
+            txtco2.Text = "0";
+            txtbazo.Text = "0";
+            txtnaoh.Text = "0";
+            txtkoh.Text = "0";
+            txtbaoh2.Text = "0";
+            txtcaoh2.Text = "0";
+            txtketqua.Text = "0";
+            txtketquaBa.Text = "0";
+            txtketquaCa.Text = "0";
+            txtketquaK.Text = "0";
+            txtketquaNa.Text = "0";
+            txtketquaHCO3.Text = "0";
+            txtketquaCO3.Text = "0";
+            txtketquaOHdu.Text = "0";
+            txtketquaCO2du.Text = "0";
         }
     }
 }

@@ -1,11 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace WindowsFormsApp1
@@ -31,6 +24,14 @@ namespace WindowsFormsApp1
             Dang2 b = new Dang2();
             b.Closed += (s, args) => this.Close();
             b.Show();
+        }
+
+        private void btndang3_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Dang3 c = new Dang3();
+            c.Closed += (s, args) => this.Close();
+            c.Show();
         }
     }
 }
