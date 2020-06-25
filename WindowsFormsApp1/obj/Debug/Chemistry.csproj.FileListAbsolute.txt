@@ -23,3 +23,6 @@ D:\CODE\C#\WinForm\Chemistry-Part1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.D
 D:\CODE\C#\WinForm\Chemistry-Part1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
 D:\CODE\C#\WinForm\Chemistry-Part1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 D:\CODE\C#\WinForm\Chemistry-Part1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\CODE\C#\WinForm\Chemistry-Part1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Dang4.resources
+D:\CODE\C#\WinForm\Chemistry-Part1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Dang5.resources
+D:\CODE\C#\WinForm\Chemistry-Part1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Dang6.resources

@@ -33,5 +33,29 @@ namespace WindowsFormsApp1
             c.Closed += (s, args) => this.Close();
             c.Show();
         }
+
+        private void btndang4_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Dang4 d = new Dang4();
+            d.Closed += (s, args) => this.Close();
+            d.Show();
+        }
+
+        private void btndang5_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Dang5 g = new Dang5();
+            g.Closed += (s, args) => this.Close();
+            g.Show();
+        }
+
+        private void btndang6_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Dang6 f = new Dang6();
+            f.Closed += (s, args) => this.Close();
+            f.Show();
+        }
     }
 }
