@@ -359,11 +359,11 @@
             this.label26.AutoSize = true;
             this.label26.BackColor = System.Drawing.Color.Transparent;
             this.label26.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label26.Location = new System.Drawing.Point(243, 466);
+            this.label26.Location = new System.Drawing.Point(216, 466);
             this.label26.Name = "label26";
-            this.label26.Size = new System.Drawing.Size(91, 20);
+            this.label26.Size = new System.Drawing.Size(153, 20);
             this.label26.TabIndex = 24;
-            this.label26.Text = "Phuoc DUT";
+            this.label26.Text = "Code by Phuoc DUT";
             // 
             // label14
             // 
